@@ -1,4 +1,4 @@
-module github.com/DeskSoul29/Social-Unipamplona
+module github.com/DeskSoul29/social-unipamplona
 
 go 1.18
 
