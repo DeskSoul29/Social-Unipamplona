@@ -1,7 +1,4 @@
-module github.com/DeskSoul29/social-unipamplona
+module github.com/desksoul29/social-unipamplona
 
-go 1.18
+go 1.12
 
-require(
-
-)
