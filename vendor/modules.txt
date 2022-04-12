@@ -1,13 +1,16 @@
-# github.com/go-stack/stack v1.8.0
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
 ## explicit
+github.com/dgrijalva/jwt-go
+# github.com/go-stack/stack v1.8.1
+## explicit; go 1.17
 github.com/go-stack/stack
-# github.com/golang/snappy v0.0.1
+# github.com/golang/snappy v0.0.4
 ## explicit
 github.com/golang/snappy
 # github.com/gorilla/mux v1.8.0
 ## explicit; go 1.12
 github.com/gorilla/mux
-# github.com/klauspost/compress v1.13.6
+# github.com/klauspost/compress v1.15.1
 ## explicit; go 1.15
 github.com/klauspost/compress
 github.com/klauspost/compress/fse
@@ -24,14 +27,14 @@ github.com/rs/cors
 # github.com/xdg-go/pbkdf2 v1.0.0
 ## explicit; go 1.9
 github.com/xdg-go/pbkdf2
-# github.com/xdg-go/scram v1.0.2
+# github.com/xdg-go/scram v1.1.1
 ## explicit; go 1.11
 github.com/xdg-go/scram
-# github.com/xdg-go/stringprep v1.0.2
+# github.com/xdg-go/stringprep v1.0.3
 ## explicit; go 1.11
 github.com/xdg-go/stringprep
-# github.com/youmark/pkcs8 v0.0.0-20181117223130-1be2e3e5546d
-## explicit
+# github.com/youmark/pkcs8 v0.0.0-20201027041543-1326539a0a0a
+## explicit; go 1.12
 github.com/youmark/pkcs8
 # go.mongodb.org/mongo-driver v1.9.0
 ## explicit; go 1.10
@@ -69,16 +72,17 @@ go.mongodb.org/mongo-driver/x/mongo/driver/session
 go.mongodb.org/mongo-driver/x/mongo/driver/topology
 go.mongodb.org/mongo-driver/x/mongo/driver/uuid
 go.mongodb.org/mongo-driver/x/mongo/driver/wiremessage
-# golang.org/x/crypto v0.0.0-20220408190544-5352b0902921
+# golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4
 ## explicit; go 1.17
 golang.org/x/crypto/bcrypt
 golang.org/x/crypto/blowfish
 golang.org/x/crypto/ocsp
 golang.org/x/crypto/pbkdf2
-# golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
+golang.org/x/crypto/scrypt
+# golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 ## explicit
 golang.org/x/sync/errgroup
-# golang.org/x/text v0.3.6
-## explicit; go 1.11
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
 golang.org/x/text/transform
 golang.org/x/text/unicode/norm
