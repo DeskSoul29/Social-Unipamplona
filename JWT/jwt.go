@@ -7,7 +7,7 @@ import (
 	jwt "github.com/dgrijalva/jwt-go"
 )
 
-/*GeneroJWT genera el encriptado con JWT*/
+/*GeneroJWT genera el encriptado con JWT:*/
 func GeneroJWT(t models.Usuario) (string, error) {
 
 	miClave := []byte("Grupo6_Gafaro_Merchan_Ramirez")
@@ -31,4 +31,3 @@ func GeneroJWT(t models.Usuario) (string, error) {
 	}
 	return tokenStr, nil
 }
-
