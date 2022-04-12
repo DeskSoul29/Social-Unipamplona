@@ -31,3 +31,4 @@ func GeneroJWT(t models.Usuario) (string, error) {
 	}
 	return tokenStr, nil
 }
+//deteccion de cambios
