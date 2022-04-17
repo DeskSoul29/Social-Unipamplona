@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/desksoul29/social-unipamplona/bd"
-	"github.com/desksoul29/social-unipamplona/jwt"
+	jwt "github.com/desksoul29/social-unipamplona/jwt"
 	"github.com/desksoul29/social-unipamplona/models"
 )
 
