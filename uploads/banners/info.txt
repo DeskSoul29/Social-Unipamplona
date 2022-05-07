@@ -1,0 +1,1 @@
+Carpeta donde se subiran los banners (Foto de Portada) de cada usuario
